@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delivery_courier", "Delivery_courier\Delivery_courier.csproj", "{40C74BE9-1BFD-4BA0-94B8-2CAC8653F5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C74BE9-1BFD-4BA0-94B8-2CAC8653F5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C74BE9-1BFD-4BA0-94B8-2CAC8653F5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C74BE9-1BFD-4BA0-94B8-2CAC8653F5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C74BE9-1BFD-4BA0-94B8-2CAC8653F5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1588EC21-7275-4105-9CBB-873D8FFD8433}
+	EndGlobalSection
+EndGlobal
